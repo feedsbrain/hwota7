@@ -1,0 +1,6 @@
+File renames:
+
+update.zip 		        (no changes here)
+update_data_public.zip 	(instead of update_data_full_public.zip)
+update_all_hw.zip 	    (instead of update_full_VIE_xxx.zip) 
+
